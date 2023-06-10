@@ -16,3 +16,8 @@ This is a medical visual question answering model that uses Vision-and-Language 
 | **Model** | **Accuracy** | **BELU**  |
 | :---:   | :---: | :---: |
 | ViLT  | 87%      | 79% |
+
+## Predictions
+|![Screenshot 2023-05-29 203421](https://github.com/daliazh/MVQA_ViLT/assets/85033378/96fd16f0-2407-4d3f-8955-ac9c034a647f)| ![Screenshot 2023-05-29 203942](https://github.com/daliazh/MVQA_ViLT/assets/85033378/454215de-cfc5-464c-88d2-c3750f3c5d69) |
+| :---:   | :---: | 
+|![Screenshot 2023-05-29 204020](https://github.com/daliazh/MVQA_ViLT/assets/85033378/335d0c62-10d4-41f7-b5b8-ef118443172b)| ![Screenshot 2023-05-29 204047](https://github.com/daliazh/MVQA_ViLT/assets/85033378/0b73ff27-eab1-4a79-aa3c-84a36db98e72) |
