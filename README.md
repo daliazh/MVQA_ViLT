@@ -35,8 +35,8 @@ For more about the vision-and-language transformer (ViLT) model:
   primaryClass={stat.ML}
 }
 ``` 
-For the VQA-RAD dataset:
-
+VQA-RAD dataset:
+```
 @MISC{Lau2022-rf,
   title     = "Visual question answering in radiology ({VQA-RAD})",
   author    = "Lau, Jason Joseph and Gayen, Soumya and Demner, Dina and Ben
@@ -47,3 +47,4 @@ For the VQA-RAD dataset:
   month     =  jun,
   year      =  2022
 }
+```
