@@ -3,7 +3,7 @@ This is a medical visual question answering model that uses Vision-and-Language 
 ![image](https://github.com/daliazh/MVQA_ViLT/assets/85033378/af200b34-9097-488e-b2d6-f4400fc5ac4f)
 
 ## Requirements
-* Download the VQA-RAD data in Data/osfstorage-archive/Processed and Data/osfstorage-archive/VQA_RAD Dataset Public.json.
+* Download the VQA-RAD data "Processed" and "VQA_RAD Dataset Public.json".
 * Download the pretrained ViLT model in Model/vilt_acc87.pt.
 
 ## Implementation Details
